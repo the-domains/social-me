@@ -1,0 +1,14 @@
+layout_spectrum: 0.21326452563516796
+typography_spectrum: 0.042582503985613585
+color:
+  brandStrength: 0.6322218673303723
+  lightness: 0.89156080246903
+  saturation: 0.9247550384607166
+  rhythmicContrast: 0.37332876585423946
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Social Me
